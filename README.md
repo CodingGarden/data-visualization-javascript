@@ -94,5 +94,8 @@
     * Has a wrapper for your prefered front end framework**
 * [ ] Lets graph some stuff!
   * [ ] Which libra(ies) should I use?
+  * [ ] Static data
+  * [ ] Data from an API
+    * [ ] Reformatting data to work with the chart library
 * [ ] How do you use the library with a front end framework? (Angular, React, Vue.js etc.)
   * [ ] Talk about wrapper libraries/how to find them
